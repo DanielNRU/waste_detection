@@ -1,0 +1,23 @@
+names:
+  0: PET (transparent) (green)
+  1: PET (transparent) (brown)
+  2: PET (transparent) (blue)
+  3: PET (transparent)
+  4: PET (transparent) (dark blue)
+  5: PET (black)
+  6: PET (white)
+  7: PET (sticker)
+  8: PET (flacon)
+  9: PET (household chemicals)
+  10: PND (household chemicals)
+  11: PND packet
+  12: Other plastic
+  13: Other plastic (transparent)
+  14: Not plastic
+nc: 15
+train:
+- /kaggle/input/waste-detection-10-12-1/yolo_data/train/images
+- /kaggle/input/waste-detection-10-12-1/yolo_data/train/labels
+val:
+- /kaggle/input/waste-detection-10-12-1/yolo_data/val/images
+- /kaggle/input/waste-detection-10-12-1/yolo_data/val/labels
