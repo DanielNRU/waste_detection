@@ -151,10 +151,10 @@ waste_detection/
 ├── waste_detection.ipynb      # Jupyter-ноутбук с экспериментами/анализом
 ├── yolo_11m_best.pt           # Сохранённые веса модели
 ├── yolo11/                    # Основная рабочая директория экспериментов
-│   ├── ...
-│   └── weights/
-│       ├── best.pt
-│       └── last.pt
+    ├── ...
+    └── weights/
+        ├── best.pt
+        └── last.pt
 ```
 
 ---
